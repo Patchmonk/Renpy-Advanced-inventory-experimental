@@ -24,3 +24,12 @@ image Backpack_Hover:
     "images/inventory/inventory_gui/backpack_hover.png"
     size(60,60) 
 
+image close:
+    "images/inventory/inventory_gui/close.png"
+    size(30,30) 
+
+# backpack icon     
+image close_hover:
+    "images/inventory/inventory_gui/close_hover.png"
+    size(30,30) 
+ 

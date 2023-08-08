@@ -1,0 +1,2664 @@
+Wed Aug  9 02:25:30 2023
+Windows-10-10.0.19045
+Ren'Py 8.1.0.23051307
+ 
+
+Bootstrap to the start of init.init. took 0.03s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.03s
+Loading script. took 0.20s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.05s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.01s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.37s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 70.00s
+Early init. took 0.00s
+Loader init. took 0.07s
+Loading error handling. took 0.03s
+Loading script. took 0.17s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.34s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 79.94s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.36s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 103.90s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.03s
+Loading script. took 0.15s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 113.81s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.15s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.35s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 265.92s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.16s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.34s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 272.75s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.13s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.34s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 292.23s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.15s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.34s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 308.34s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.15s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 434.08s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.17s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.05s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 19, in script
+    $ inventory.add_item(compass, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 19, in <module>
+    $ inventory.add_item(compass, 99)
+NameError: name 'compass' is not defined
+
+While running game code:
+  File "game/script.rpy", line 19, in script
+    $ inventory.add_item(compass, 99)
+  File "game/script.rpy", line 19, in <module>
+    $ inventory.add_item(compass, 99)
+NameError: name 'compass' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 446.96s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.16s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.31s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 19, in script
+    $ inventory.add_item(Compass, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 19, in <module>
+    $ inventory.add_item(Compass, 99)
+NameError: name 'Compass' is not defined
+
+While running game code:
+  File "game/script.rpy", line 19, in script
+    $ inventory.add_item(Compass, 99)
+  File "game/script.rpy", line 19, in <module>
+    $ inventory.add_item(Compass, 99)
+NameError: name 'Compass' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 451.92s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 19, in script
+    $ inventory.add_item(Compass, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 19, in <module>
+    $ inventory.add_item(Compass, 99)
+NameError: name 'Compass' is not defined
+
+While running game code:
+  File "game/script.rpy", line 19, in script
+    $ inventory.add_item(Compass, 99)
+  File "game/script.rpy", line 19, in <module>
+    $ inventory.add_item(Compass, 99)
+NameError: name 'Compass' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 474.15s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.32s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Mana_ram, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Mana_ram, 99)
+NameError: name 'Mana_ram' is not defined
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Mana_ram, 99)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Mana_ram, 99)
+NameError: name 'Mana_ram' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 491.64s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.34s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 21, in script
+    $ inventory.add_item(fish, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 21, in <module>
+    $ inventory.add_item(fish, 99)
+NameError: name 'fish' is not defined
+
+While running game code:
+  File "game/script.rpy", line 21, in script
+    $ inventory.add_item(fish, 99)
+  File "game/script.rpy", line 21, in <module>
+    $ inventory.add_item(fish, 99)
+NameError: name 'fish' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 560.09s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.17s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.07s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.37s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 21, in script
+    $ inventory.add_item(Fish, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 21, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+
+While running game code:
+  File "game/script.rpy", line 21, in script
+    $ inventory.add_item(Fish, 99)
+  File "game/script.rpy", line 21, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 563.92s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.13s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.32s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 21, in script
+    $ inventory.add_item(Fish, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 21, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+
+While running game code:
+  File "game/script.rpy", line 21, in script
+    $ inventory.add_item(Fish, 99)
+  File "game/script.rpy", line 21, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 590.77s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.16s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.32s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Fish, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Fish, 99)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 594.08s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.32s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Fish, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Fish, 99)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 667.27s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.07s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.34s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Fish, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Fish, 99)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 672.64s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.13s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.34s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Fish, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Fish, 99)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 714.44s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Fish, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Fish, 99)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 823.75s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.16s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Fish, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ inventory.add_item(Fish, 99)
+  File "game/script.rpy", line 20, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 1076.98s
+Early init. took 0.00s
+Loader init. took 0.08s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.37s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+Resetting cache.
+Bootstrap to the start of init.init. took 1086.80s
+Early init. took 0.00s
+Loader init. took 0.08s
+Loading error handling. took 0.03s
+Loading script. took 0.15s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.36s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+Resetting cache.
+Bootstrap to the start of init.init. took 1090.54s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.13s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.32s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+Resetting cache.
+Bootstrap to the start of init.init. took 1108.08s
+Early init. took 0.00s
+Loader init. took 0.07s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.35s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+Resetting cache.
+Bootstrap to the start of init.init. took 1116.29s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.32s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+Resetting cache.
+Bootstrap to the start of init.init. took 1120.61s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.13s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+Resetting cache.
+Bootstrap to the start of init.init. took 1128.84s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.06s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.07s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.36s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+Resetting cache.
+Bootstrap to the start of init.init. took 1133.41s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.13s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+
+While running game code:
+  File "game/script.rpy", line 20, in script
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+  File "game/script.rpy", line 20, in <module>
+    $ hurricane  = Item(hurricane ="compass", quantity=1)
+TypeError: __init__() got an unexpected keyword argument 'hurricane'
+Resetting cache.
+Bootstrap to the start of init.init. took 1147.87s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.07s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.32s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 26, in script
+    $ inventory.add_item(Fish, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 26, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+
+While running game code:
+  File "game/script.rpy", line 26, in script
+    $ inventory.add_item(Fish, 99)
+  File "game/script.rpy", line 26, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 1150.48s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.15s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 26, in script
+    $ inventory.add_item(Fish, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 26, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+
+While running game code:
+  File "game/script.rpy", line 26, in script
+    $ inventory.add_item(Fish, 99)
+  File "game/script.rpy", line 26, in <module>
+    $ inventory.add_item(Fish, 99)
+NameError: name 'Fish' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 1166.58s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.31s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1207.88s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.16s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.31s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 41, in script
+    e "You've created a new Ren'Py game."
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 930, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\exports.py", line 1473, in say
+    who(what, *args, **kwargs)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\character.py", line 1349, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\character.py", line 1000, in do_display
+    display_say(who,
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\character.py", line 690, in display_say
+    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ui.py", line 299, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\core.py", line 3499, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\core.py", line 4089, in interact_core
+    self.draw_screen(root_widget, fullscreen_video, (not fullscreen_video) or video_frame_drawn)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\core.py", line 2699, in draw_screen
+    surftree = renpy.display.render.render_screen(
+  File "render.pyx", line 492, in renpy.display.render.render_screen
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 886, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 886, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 886, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\screen.py", line 731, in render
+    child = renpy.display.render.render(self.child, w, h, st, at)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 886, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 1336, in render
+    surf = render(child,
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 886, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 1107, in render
+    surf = render(d, width - x, rh, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\viewport.py", line 710, in render
+    surf = renpy.display.render.render(c, cw, ch, st, at)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 1336, in render
+    surf = render(child,
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 886, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\im.py", line 676, in render
+    return cache.get(self, render=True)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\im.py", line 330, in get
+    surf = image.load()
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\im.py", line 803, in load
+    raise e
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\im.py", line 757, in load
+    filelike = renpy.loader.load(self.filename, directory="images")
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\loader.py", line 833, in load
+    raise IOError("Couldn't find file '%s'." % name)
+OSError: Couldn't find file 'images/inventory/mana_rum.png'.
+
+While loading <renpy.display.im.Image object ('images/inventory/mana_rum.png') at 0x0000000005d61820>:
+  File "game/script.rpy", line 41, in script
+    e "You've created a new Ren'Py game."
+OSError: Couldn't find file 'images/inventory/mana_rum.png'.
+Resetting cache.
+Bootstrap to the start of init.init. took 1228.91s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.05s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.36s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 41, in script
+    e "You've created a new Ren'Py game."
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 930, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\exports.py", line 1473, in say
+    who(what, *args, **kwargs)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\character.py", line 1349, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\character.py", line 1000, in do_display
+    display_say(who,
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\character.py", line 690, in display_say
+    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ui.py", line 299, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\core.py", line 3499, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\core.py", line 4089, in interact_core
+    self.draw_screen(root_widget, fullscreen_video, (not fullscreen_video) or video_frame_drawn)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\core.py", line 2699, in draw_screen
+    surftree = renpy.display.render.render_screen(
+  File "render.pyx", line 492, in renpy.display.render.render_screen
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 886, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 886, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 886, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\screen.py", line 731, in render
+    child = renpy.display.render.render(self.child, w, h, st, at)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 886, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 1336, in render
+    surf = render(child,
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 886, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 1107, in render
+    surf = render(d, width - x, rh, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\viewport.py", line 710, in render
+    surf = renpy.display.render.render(c, cw, ch, st, at)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 1336, in render
+    surf = render(child,
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\layout.py", line 886, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\im.py", line 676, in render
+    return cache.get(self, render=True)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\im.py", line 330, in get
+    surf = image.load()
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\im.py", line 803, in load
+    raise e
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\im.py", line 757, in load
+    filelike = renpy.loader.load(self.filename, directory="images")
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\loader.py", line 833, in load
+    raise IOError("Couldn't find file '%s'." % name)
+OSError: Couldn't find file 'images/inventory/Mana_rum.png'.
+
+While loading <renpy.display.im.Image object ('images/inventory/Mana_rum.png') at 0x000000000428bbe0>:
+  File "game/script.rpy", line 41, in script
+    e "You've created a new Ren'Py game."
+OSError: Couldn't find file 'images/inventory/Mana_rum.png'.
+Resetting cache.
+Bootstrap to the start of init.init. took 1252.79s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.15s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.34s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.04s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 28, in script
+    $ inventory.add_item(mana_rum, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 28, in <module>
+    $ inventory.add_item(mana_rum, 99)
+NameError: name 'mana_rum' is not defined
+
+While running game code:
+  File "game/script.rpy", line 28, in script
+    $ inventory.add_item(mana_rum, 99)
+  File "game/script.rpy", line 28, in <module>
+    $ inventory.add_item(mana_rum, 99)
+NameError: name 'mana_rum' is not defined
+Resetting cache.
+Bootstrap to the start of init.init. took 1259.47s
+Early init. took 0.00s
+Loader init. took 0.07s
+Loading error handling. took 0.02s
+Loading script. took 0.16s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.32s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1286.50s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.31s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1307.30s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.41s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1323.57s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Sanzid\\AppData\\Roaming/RenPy/backups\\Advanced inventory':
+Dump and make backups. took 0.07s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.40s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1341.33s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.17s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object. took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1498.42s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.21s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+
+File "game/scripts/inventory_screen.rpy", line 2: expected statement.
+    NUM_INITIAL_SLOTS = 28
+                      ^
+
+File "game/scripts/inventory_screen.rpy", line 3: expected statement.
+    MINIMUM_SLOTS = 5
+                  ^
+
+File "game/scripts/inventory_screen.rpy", line 4: expected statement.
+    SLOT_SIZE = 155
+              ^
+
+File "game/scripts/inventory_screen.rpy", line 18: 'max_items_per_slot' is not a keyword argument or valid child of the vbox statement.
+    max_items_per_slot = inventory.max_items_per_slot
+                      ^
+
+File "game/scripts/inventory_screen.rpy", line 27: invalid syntax
+    function createInventoryGrid(num_slots):
+              ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start. took 0.51s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1519.96s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.17s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+
+File "game/scripts/inventory_screen.rpy", line 16: 'max_items_per_slot' is not a keyword argument or valid child of the vbox statement.
+    max_items_per_slot = inventory.max_items_per_slot
+                      ^
+
+File "game/scripts/inventory_screen.rpy", line 28: invalid syntax
+    function createInventoryGrid(num_slots):
+              ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start. took 0.43s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1778.27s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.16s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+
+File "game/scripts/inventory_screen.rpy", line 16: 'max_items_per_slot' is not a keyword argument or valid child of the vbox statement.
+    max_items_per_slot = inventory.max_items_per_slot
+                      ^
+
+File "game/scripts/inventory_screen.rpy", line 28: invalid syntax
+    function createInventoryGrid(num_slots):
+              ^
+
+File "game/scripts/inventory_system.rpy", line 13: 'max_items_per_slot' is not a keyword argument or valid child of the vbox statement.
+    max_items_per_slot = inventory.max_items_per_slot
+                      ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start. took 0.43s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1807.44s
+Early init. took 0.00s
+Loader init. took 0.07s
+Loading error handling. took 0.04s
+Loading script. took 0.15s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+
+File "game/scripts/inventory_screen.rpy", line 16: 'max_items_per_slot' is not a keyword argument or valid child of the vbox statement.
+    max_items_per_slot = inventory.max_items_per_slot
+                      ^
+
+File "game/scripts/inventory_screen.rpy", line 28: invalid syntax
+    function createInventoryGrid(num_slots):
+              ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start. took 0.45s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1827.57s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.15s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+
+File "game/scripts/inventory_screen.rpy", line 16: 'max_items_per_slot' is not a keyword argument or valid child of the vbox statement.
+    max_items_per_slot = inventory.max_items_per_slot
+                      ^
+
+File "game/scripts/inventory_screen.rpy", line 28: invalid syntax
+    function createInventoryGrid(num_slots):
+              ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start. took 0.48s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2451.63s
+Early init. took 0.00s
+Loader init. took 0.06s
+Loading error handling. took 0.02s
+Loading script. took 0.16s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+
+File "game/scripts/inventory_screen.rpy", line 16: 'max_items_per_slot' is not a keyword argument or valid child of the vbox statement.
+    max_items_per_slot = inventory.max_items_per_slot
+                      ^
+
+File "game/scripts/inventory_screen.rpy", line 28: invalid syntax
+    function createInventoryGrid(num_slots):
+              ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start. took 0.42s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2464.06s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.02s
+Loading script. took 0.16s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+
+File "game/scripts/inventory_system.rpy", line 44: invalid syntax
+                    vpgrid cols 7 spacing 5 draggable True mousewheel True scrollbars "vertical":
+                            ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start. took 0.46s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 536.67'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096

@@ -1,52 +1,26 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-After initialization, but before game start.
-  File "game/scripts/inventory_screen.rpy", line 1, in prepare_screen
-    screen inventoryScreen():
-  File "game/scripts/inventory_screen.rpy", line 1, in prepare
-    screen inventoryScreen():
-  File "game/scripts/inventory_screen.rpy", line 3, in prepare
-    frame style style["inventory_frame"]:
-  File "game/scripts/inventory_screen.rpy", line 3, in prepare
-    frame style style["inventory_frame"]:
-  File "game/scripts/inventory_screen.rpy", line 10, in prepare
-    vbox:
-  File "game/scripts/inventory_screen.rpy", line 10, in prepare
-    vbox:
-  File "game/scripts/inventory_screen.rpy", line 18, in prepare
-    vpgrid cols 7 spacing 5 draggable True mousewheel True scrollbars "vertical":
-Exception: Properties are not allowed here.
+While running game code:
+  File "game/script.rpy", line 28, in script
+    $ inventory.add_item(mana_rum, 99)
+  File "game/script.rpy", line 28, in <module>
+    $ inventory.add_item(mana_rum, 99)
+NameError: name 'mana_rum' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\bootstrap.py", line 275, in bootstrap
-    renpy.main.main()
-  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\main.py", line 670, in main
-    run(restart)
-  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\main.py", line 93, in run
-    renpy.display.screen.prepare_screens()
-  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\display\screen.py", line 1003, in prepare_screens
-    s.ast.prepare_screen()
-  File "game/scripts/inventory_screen.rpy", line 1, in prepare_screen
-    screen inventoryScreen():
-  File "game/scripts/inventory_screen.rpy", line 1, in prepare
-    screen inventoryScreen():
-  File "game/scripts/inventory_screen.rpy", line 3, in prepare
-    frame style style["inventory_frame"]:
-  File "game/scripts/inventory_screen.rpy", line 3, in prepare
-    frame style style["inventory_frame"]:
-  File "game/scripts/inventory_screen.rpy", line 10, in prepare
-    vbox:
-  File "game/scripts/inventory_screen.rpy", line 10, in prepare
-    vbox:
-  File "game/scripts/inventory_screen.rpy", line 18, in prepare
-    vpgrid cols 7 spacing 5 draggable True mousewheel True scrollbars "vertical":
-  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\sl2\slast.py", line 453, in prepare
-    raise Exception("Properties are not allowed here.")
-Exception: Properties are not allowed here.
+  File "game/script.rpy", line 28, in script
+    $ inventory.add_item(mana_rum, 99)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\Sanzid\Desktop\Renpy\renpy-8.1.0-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 28, in <module>
+    $ inventory.add_item(mana_rum, 99)
+NameError: name 'mana_rum' is not defined
 
 Windows-10-10.0.19045 AMD64
 Ren'Py 8.1.0.23051307
 Advanced inventory 1.0
-Tue Aug  8 22:45:08 2023
+Wed Aug  9 02:46:24 2023

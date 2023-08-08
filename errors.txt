@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/scripts/inventory_screen.rpy", line 35: the scrollbars keyword argument was not given a value.
-    scrollbars.visible = False            
-              ^
+File "game/scripts/inventory_system.rpy", line 44: invalid syntax
+                    vpgrid cols 7 spacing 5 draggable True mousewheel True scrollbars "vertical":
+                            ^
 
 Ren'Py Version: Ren'Py 8.1.0.23051307
-Tue Aug  8 22:45:46 2023
+Wed Aug  9 03:06:34 2023

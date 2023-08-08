@@ -18,37 +18,53 @@ screen inventoryScreen():
             if num_slots > 28:
                 vpgrid cols 7 spacing 5 draggable True mousewheel True scrollbars "vertical":
                     xpos 5 ypos 5
-                    for i in range(num_slots):  
+                    for slot in range(num_slots):  
                         frame:
                             maximum(155, 155)
                             background Image("images/inventory/inventory_gui/slot_bg.png") xalign 0.5 yalign 0.5
 
                             # Check if the slot should display an item
-                            if i < len(inventory.items):
-                                $ item = inventory.items[i]
+                            if slot < len(inventory.items):
+                                $ item = inventory.items[slot]
                                 add Image("images/inventory/" + item.name + ".png", xalign=0.5, yalign=0.5)
-                                $ inv_item_name = item.name.replace('_', ' ')
-                                # $ inv_item_text = f"{inv_item_name} x{item.quantity}"
-                                $ inv_item_text = f"x{item.quantity}"
 
-                                text inv_item_text style style["inv_item"]
+                                # Get the item name
+                                $ item_name = item.name.replace('_', ' ')
+
+                                # Get the item quantity
+                                $ item_quantity = item.quantity
+
+                                # Display the item name
+                                # text item_name style style["inv_item"]
+
+                                # Display the item quantity
+                                text str(item_quantity) style style["item_quantity"]
             else:
                 vpgrid cols 7 spacing 5 draggable False mousewheel False:
                     xpos 5 ypos 5
-                    for i in range(num_slots):  
+                    for slot in range(num_slots):  
                         frame:
                             maximum(155, 155)
                             background Image("images/inventory/inventory_gui/slot_bg.png") xalign 0.5 yalign 0.5
 
                             # Check if the slot should display an item
-                            if i < len(inventory.items):
-                                $ item = inventory.items[i]
+                            if slot < len(inventory.items):
+                                $ item = inventory.items[slot]
                                 add Image("images/inventory/" + item.name + ".png", xalign=0.5, yalign=0.5)
-                                $ inv_item_name = item.name.replace('_', ' ')
-                                # $ inv_item_text = f"{inv_item_name} x{item.quantity}"
-                                $ inv_item_text = f"x{item.quantity}"
 
-                                text inv_item_text style style["inv_item"]
+                                # Get the item name
+                                $ item_name = item.name.replace('_', ' ')
+
+                                # Get the item quantity
+                                $ item_quantity = item.quantity
+
+                                # Display the item name
+                                # text item_name style style["inv_item"]
+
+                                # Display the item quantity
+                                text str(item_quantity) style style["item_quantity"]
+
+
 
 
 

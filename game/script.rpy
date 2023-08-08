@@ -11,46 +11,49 @@ label start:
     show screen HUD
 
     # Add some initial items to the inventory
-    $ map = Item(name="map", quantity=5)
-    $ apple = Item(name="apple", quantity=3)
+    $ map = Item(name="map", quantity=1)
+    $ apple = Item(name="apple", quantity=1)
+    $ fish = Item(name="fish", quantity=1)
+    $ compass = Item(name="compass", quantity=1)
+    $ log = Item(name="log", quantity=1)  
+    $ mana_ram = Item(name="Mana_ram", quantity=1) 
+   
+
     $ inventory.add_item(map, 99)
     $ inventory.add_item(apple,99)
+    $ inventory.add_item(apple,99)
+    $ inventory.add_item(compass, 99)
+    $ inventory.add_item(log, 99)
+    $ inventory.add_item(mana_ram, 99)
+    $ inventory.add_item(fish, 99)
+
     $ inventory.add_item(map, 99)
     $ inventory.add_item(apple,99)
+    $ inventory.add_item(apple,99)
+    $ inventory.add_item(compass, 99)
+    $ inventory.add_item(log, 99)
+    $ inventory.add_item(mana_ram, 99)
+    $ inventory.add_item(fish, 99)
+
+
     $ inventory.add_item(map, 99)
     $ inventory.add_item(apple,99)
+    $ inventory.add_item(apple,99)
+    $ inventory.add_item(compass, 99)
+    $ inventory.add_item(log, 99)
+    $ inventory.add_item(mana_ram, 99)
+    $ inventory.add_item(fish, 99)
+
+
     $ inventory.add_item(map, 99)
     $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
     $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,99)
-    $ inventory.add_item(map, 93)
-    $ inventory.add_item(apple,9)
-    $ inventory.add_item(map, 99)
-    $ inventory.add_item(apple,9)
+    $ inventory.add_item(compass, 99)
+    $ inventory.add_item(log, 99)
+    $ inventory.add_item(mana_ram, 99)
+    $ inventory.add_item(fish, 99)
+ 
+
     
 
     # Show the background image
