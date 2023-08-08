@@ -3,8 +3,9 @@ screen inventoryScreen():
     frame style style["inventory_frame"]:
         imagebutton style style["close_btn"]:
             idle "close"
-           
+            hover "close_hover"
             action Hide("inventoryScreen")
+        # You can change background of the inventory grid if you want, here is an example code below commented.    
         # add "images/forest.png"   size(1130,700)
         vbox:
             text "Inventory" xpos 5 ypos -5
