@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/scripts/HUD.rpy", line 28: expected statement.
+    mages\inventory\inventory_gui
+         ^
+
+Ren'Py Version: Ren'Py 8.1.0.23051307
+Tue Aug  8 21:01:31 2023
