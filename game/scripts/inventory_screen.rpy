@@ -35,7 +35,7 @@ screen inventoryScreen():
                                 $ item_quantity = item.quantity
 
                                 # Display the item name
-                                # text item_name style style["inv_item"]
+                                #text item_name style style["inv_item"]
 
                                 # Display the item quantity
                                 text str(item_quantity) style style["item_quantity"]

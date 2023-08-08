@@ -2,9 +2,8 @@
 errors listed below, and try again.
 
 
-File "game/scripts/inventory_system.rpy", line 44: invalid syntax
-                    vpgrid cols 7 spacing 5 draggable True mousewheel True scrollbars "vertical":
-                            ^
+File "game/scripts/inventory_system.rpy", line 43: invalid syntax
+            frame:
 
 Ren'Py Version: Ren'Py 8.1.0.23051307
-Wed Aug  9 03:06:34 2023
+Wed Aug  9 03:40:04 2023
